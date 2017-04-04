@@ -1,0 +1,27 @@
+/* I can add in different fonts later on here using
+@import url('')   */
+
+body {
+  background-image: url(Images/seagull-hills.jpg);
+  font-family: sans-serif;
+  max-width:
+}
+
+.headingContainer {
+  overflow: hidden;
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.heading {
+  height: 90px;
+  background-color: #2d2f3b;
+  color: white;
+  border-bottom; 6px solid #4b4e61
+
+.navigation {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
