@@ -1,7 +1,7 @@
 @import url('<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">');
 
 body {
-    background-color:  #c1c1c4;
+    background-color:  #b3b3b3;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
   height: 60px;
   color: black;
   text-align: left;
-  opacity: 0.7;
+  opacity: 0.9;
   font-family: 'Raleway' sans-serif;
 }
 
@@ -28,7 +28,7 @@ body {
   background-color: rgba(255, 255, 255);
   padding: 0px 10px;
   padding-top: 18px;
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 .navigation li {
@@ -52,7 +52,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: rgba(255, 255, 255);
-  opacity: 0.7;
+  opacity: 0.9;
   padding-left: 10px;
   overflow: hidden;
   max-width: 820px;
@@ -74,7 +74,7 @@ body {
   overflow: hidden;
   padding-left: 10px;
   background-color: rgba(255, 255, 255);
-  opacity: 0.7;
+  opacity: 0.9;
 }
 
 .portfolioText{
